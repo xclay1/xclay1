@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @xclay1
+- 👀 I’m interested in cracking
+- 🌱 I’m currently learning c# & c++ & Reverse Engineer
+- 📫 How to reach me no one can reach me
+- 😄 Pronouns: him
+- ⚡ Fun fact: no system is save
